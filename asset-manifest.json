@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/music-react-app/static/css/main.dbe5e8ff.chunk.css",
-    "main.js": "/music-react-app/static/js/main.8be8bab9.chunk.js",
-    "main.js.map": "/music-react-app/static/js/main.8be8bab9.chunk.js.map",
-    "runtime~main.js": "/music-react-app/static/js/runtime~main.615b9a9f.js",
-    "runtime~main.js.map": "/music-react-app/static/js/runtime~main.615b9a9f.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/music-react-app/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/music-react-app/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/music-react-app/index.html",
-    "precache-manifest.08b1a6ecf5960243f3dd0855c9611428.js": "/music-react-app/precache-manifest.08b1a6ecf5960243f3dd0855c9611428.js",
-    "service-worker.js": "/music-react-app/service-worker.js",
-    "static/css/main.dbe5e8ff.chunk.css.map": "/music-react-app/static/css/main.dbe5e8ff.chunk.css.map",
-    "static/media/index.css": "/music-react-app/static/media/roboto-condensed.light.cf4449c1.ttf"
+    "main.css": "/react-gh-pages/static/css/main.54a23e6a.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.0e874caa.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.0e874caa.chunk.js.map",
+    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
+    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-gh-pages/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-gh-pages/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.72729d82052c2f5b20b8c3f3122a40fc.js": "/react-gh-pages/precache-manifest.72729d82052c2f5b20b8c3f3122a40fc.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.54a23e6a.chunk.css.map": "/react-gh-pages/static/css/main.54a23e6a.chunk.css.map",
+    "static/media/index.css": "/react-gh-pages/static/media/roboto-condensed.light.cf4449c1.ttf"
   }
 }
